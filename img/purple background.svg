@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="648.56" viewBox="0 0 1920 648.56">
+    <defs>
+        <linearGradient id="cbjsstykca" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#57005e"/>
+            <stop offset=".084" stop-color="#4d005d"/>
+            <stop offset="1" stop-color="#090057"/>
+        </linearGradient>
+    </defs>
+    <path fill="url(#cbjsstykca)" d="M0 0h1920v648.56H0z"/>
+</svg>
