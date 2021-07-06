@@ -1,272 +1,272 @@
 *{
-    margin: 0;
-    padding: 0;
-    
+  margin: 0;
+  padding: 0;
+  
 }
 
 /* banner section  */
+.Line {
+/* width: 1920px; */
+width: 100%;
+height: 5px;
+margin: 4px 0 0;
+background-color: #fea069;
+display: block;
+}
+
 .Live-Events {
-      
-   
-    /* margin: 0 0 12px; */
-    margin: 64px 20px 20px 177px;
-    font-family: Ubuntu;
-    font-size: 60px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: -0.97px;
-    text-align: left;
-    color: #ffffff;
-  }
-
-  .Dweebs-is-a-worldwide-movement-aiming-to-provide-a {
     
-    /* margin: 12px 0 32px; */
-    margin: 64px 20px 20px 177px;
-    font-family: Oxygen;
-    font-size: 24px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.17px;
-    text-align: left;
-    color: #ffffff;
-  }
+ 
+  /* margin: 0 0 12px; */
+  margin: 64px 20px 20px 177px;
+  font-family: Ubuntu;
+  font-size: 60px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.97px;
+  text-align: left;
+  color: #ffffff;
+}
 
-  .Rectangle-393 {
-    width: 179px;
-    height: 48px;
-    /* margin: 0 22px 0 0; */
-    margin: 64px 20px 20px 177px;
-    opacity: 0.3;
-    border-radius: 4px;
-    background-image: linear-gradient(105deg, #f4cc61 -27%, #d8bd65 67%, #ffce00 147%);
-    background-blend-mode:lighten;
-  }
+.Dweebs-is-a-worldwide-movement-aiming-to-provide-a {
   
-  .Live-EventP3 {
-    /* it make big gap btw paragrph and image
-     width: 1920px;
-    height: 3182px; */
-    padding: 2px 0 0;
-    
-  }
+  /* margin: 12px 0 32px; */
+  margin: 64px 20px 20px 177px;
+  font-family: Oxygen;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.17px;
+  text-align: left;
+  color: #ffffff;
+}
 
-  .LIVE-EVENTS-PREVIEW {
-    /* width: 682px;
-    height: 426.6px;
-    margin: 47px 0 46.4px 146px; */
-    /* object-fit: contain; */
-  }
-  .Clicking-the-button-will-take-you-to-an-external-s {
-    /* no effect
-    width: 448px;
-    height: 20px; */
-    /* margin: 12px 88px 10px 1px; */
-    margin: 64px 20px 20px 177px;
-    font-family: Ubuntu;
-    font-size: 18px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0px;
-    text-align: left;
-    color: #ffa069;
-  }
-  .purple-background {
-   
-    background-image: linear-gradient(to bottom, #57005e, #4d005d 8%, #090057);
-    
-    
-  }
+.Rectangle-393 {
+  width: 179px;
+  height: 48px;
+  /* margin: 0 22px 0 0; */
+  margin: 64px 20px 20px 177px;
+  opacity: 0.3;
+  border-radius: 4px;
+  background-image: linear-gradient(105deg, #f4cc61 -27%, #d8bd65 67%, #ffce00 147%);
+  background-blend-mode:lighten;
+}
 
+.Live-EventP3 {
+  /* it make big gap btw paragrph and image
+   width: 1920px;
+  height: 3182px; */
+  padding: 2px 0 0;
   
+}
+
+.LIVE-EVENTS-PREVIEW {
+  /* width: 682px;
+  height: 426.6px;
+  margin: 47px 0 46.4px 146px; */
+  /* object-fit: contain; */
+}
+.Clicking-the-button-will-take-you-to-an-external-s {
+  /* no effect
+  width: 448px;
+  height: 20px; */
+  /* margin: 12px 88px 10px 1px; */
+  margin: 64px 20px 20px 177px;
+  font-family: Ubuntu;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffa069;
+}
+.purple-background {
+ 
+  background-image: linear-gradient(to bottom, #57005e, #4d005d 8%, #090057);
+  
+  
+}
+
+
 /* image section  */
 
-  .img-banner{
-    margin-top: 111px !important;
-  }
+.img-banner{
+  margin-top: 111px !important;
+}
 
-  /* contnet section  */
-  /* customise links  */
-  .Events-up-past{
-  width: 385px;
-  height: 39.5px;
-  margin: 64.4px 168px 64.5px 277px;
-  padding: 0 0 12.5px;
+/* contnet section  */
+/* customise links  */
+.Events-up-past{
+width: 385px;
+height: 39.5px;
+margin: 64.4px 168px 64.5px 277px;
+padding: 0 0 12.5px;
 }
 .Events-up-past a{
-  padding-right: 30px;
+padding-right: 30px;
 }
 .Events-up-past a:link{
-  text-decoration: none;
+text-decoration: none;
 }
 .Events-up-past .get-half-undrline:hover{
-  text-decoration: underline;
+text-decoration: underline;
 
 }
 
 /* columns decoration  */
 /* gives style to each cell outside */
 .Surface {
-  /* width: 674px; */
-  /* width: 50%;*/
-  height: 386px;
-  /*margin: 0 16px 32px 0; */
-  /* padding: 0 0 8px; */
+/* width: 674px; */
+/* width: 50%;*/
+height: 386px;
+/*margin: 0 16px 32px 0; */
+/* padding: 0 0 8px; */
 
-  border-radius: 4px;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
-  background-color: #fff;
+border-radius: 4px;
+box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+background-color: #fff;
 }
 .Image {
-  /* width: 674px; cause breaking layout  */
-  width: 100%;
-  height: 194px;
-  margin: 0 0 25.5px;
-  border-radius: 4px;
+/* width: 674px; cause breaking layout  */
+width: 100%;
+height: 194px;
+margin: 0 0 25.5px;
+border-radius: 4px;
 }
 .Business-Entrepreneur-Conference {
-  /* width: 333px; 1*/
-  height: 26px;
-  /* margin: 0 195px 4.5px 16px; 2*/
-  /* remove 1 and 2 otherwise text breakdown bottom  */
-  margin-left: 16px;
-  font-family: Oxygen;
-  font-size: 20px;
-  font-weight: bold;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.5;
-  letter-spacing: 0.26px;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.87);
+/* width: 333px; 1*/
+height: 26px;
+/* margin: 0 195px 4.5px 16px; 2*/
+/* remove 1 and 2 otherwise text breakdown bottom  */
+margin-left: 16px;
+font-family: Oxygen;
+font-size: 20px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: 0.26px;
+text-align: left;
+color: rgba(0, 0, 0, 0.87);
 }
 .By-Dweebs-Global---BUSINESS-CAREER-TEAM---321202 {
-  /* width: 528px; */
-  /* height: 15px; */
-  margin: 4.5px 16px 0; /* give 16px to left */
-  font-family: Oxygen;
-  font-size: 12px;
-  font-weight: bold;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: 1.88px;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.6);
+/* width: 528px; */
+/* height: 15px; */
+margin: 4.5px 16px 0; /* give 16px to left */
+font-family: Oxygen;
+font-size: 12px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: normal;
+letter-spacing: 1.88px;
+text-align: left;
+color: rgba(0, 0, 0, 0.6);
 }
 .Details-about-the-event-who-will-be-there-short {
-  /* width: 642px; */
-  height: 42px;
-  margin: 14px 16px 21px; /* this margin works perfectly with desing no nee to change*/
-  font-family: Oxygen;
-  font-size: 14px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.43;
-  letter-spacing: 0.09px;
-  text-align: left;
-  color: rgba(0, 0, 0, 0.6);
+/* width: 642px; */
+height: 42px;
+margin: 14px 16px 21px; /* this margin works perfectly with desing no nee to change*/
+font-family: Oxygen;
+font-size: 14px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.43;
+letter-spacing: 0.09px;
+text-align: left;
+color: rgba(0, 0, 0, 0.6);
 }
 .Box {
-  width: 121px;
-  height: 36px;
-  margin: 21px 549px 0 4px;
-  padding: 10px 13px 9px 14px;
-  border-radius: 4px;
-  background-color: #ffffff;
+width: 121px;
+height: 36px;
+margin: 21px 549px 0 4px;
+padding: 10px 13px 9px 14px;
+border-radius: 4px;
+background-color: #ffffff;
 }
 .VIEW-EVENT {
-  width: 94px;
-  height: 17px;
-  font-family: Oxygen;
-  font-size: 14px;
-  font-weight: bold;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: 1.25px;
-  text-align: center;
-  color: #090057;
+width: 94px;
+height: 17px;
+font-family: Oxygen;
+font-size: 14px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: normal;
+letter-spacing: 1.25px;
+text-align: center;
+color: #090057;
 }
 /* icons sections  */
 .icon{
-  margin-top: 24px;
-  margin-bottom: 116px;
+margin-top: 24px;
+margin-bottom: 116px;
 }
 
 .triangle-left {
-  /* width: 0;
-  height: 0;
-  border-top: 20px solid transparent;
-  border-right: 20px solid #bbb;
-  border-bottom: 20px solid transparent; */
-  
+/* width: 0;
+height: 0;
+border-top: 20px solid transparent;
+border-right: 20px solid #bbb;
+border-bottom: 20px solid transparent; */
 
-  width: 0; 
-	height: 0; 
-	border-bottom: 25px solid transparent;  /* left arrow slant */
-	border-top: 25px solid transparent; /* right arrow slant */
-	border-right: 25px solid #bbb; /* bottom, add background color here */
-  /* these two lines cause to show point of traingle  */
-	font-size: 0;
-	line-height: 0;
+
+width: 0; 
+height: 0; 
+border-bottom: 25px solid transparent;  /* left arrow slant */
+border-top: 25px solid transparent; /* right arrow slant */
+border-right: 25px solid #bbb; /* bottom, add background color here */
+/* these two lines cause to show point of traingle  */
+font-size: 0;
+line-height: 0;
 }
 
 .triangle-right {
-  width: 0;
-  height: 0;
-  border-top: 25px solid transparent;
-  border-left: 25px solid #bbb;
-  border-bottom: 25px solid transparent;
-  font-size: 0;
-	line-height: 0;
-  
+width: 0;
+height: 0;
+border-top: 25px solid transparent;
+border-left: 25px solid #bbb;
+border-bottom: 25px solid transparent;
+font-size: 0;
+line-height: 0;
+
 }
 
 .dot {
-  height: 25px;
-  width: 25px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  margin-right: 24px;
-  margin-left: 24px;
-  margin-bottom: -12px;
- 
-  
+height: 25px;
+width: 25px;
+background-color: #bbb;
+border-radius: 50%;
+display: inline-block;
+margin-right: 24px;
+margin-left: 24px;
+margin-bottom: -12px;
+
+
 }
 
-/* media query  */
-/*
-  Bootstrap 4 breakpoints
-*/
-/* Small devices (landscape phones, 544px and up) */
-/* @media (min-width: 544px) {  
-  h1{color: red !important;} /*1rem = 16px*/
+
+@media  (max-width: 1199px) { 
+
+  .Business-Entrepreneur-Conference {
+    font-size: 12px;
+  }
+  .By-Dweebs-Global---BUSINESS-CAREER-TEAM---321202{
+    font-size: 8px;
+  }
+
+  .Details-about-the-event-who-will-be-there-short {
+    font-size: 10px;
+  }
+}
 
 
-/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
-/* @media (min-width: 768px) {  
-  h1 {font-size:2rem;} /*1rem = 16px*/
- 
- 
-/* Large devices (desktops, 992px and up) */
-/* @media (min-width: 992px) { 
-  h1 {font-size:2.5rem;} /*1rem = 16px*/
-/* ***************** */
-
- /* @media (max-width: 1437px) {  
-  h1 {
-    font-size:0.4rem !important;
-    color: blue !important;
-  } */
 
 
-  
